@@ -1,0 +1,87 @@
+{
+	"version":"11.23.16-15:20-GH,SM-def def",
+	"buy": {
+		"ui": {
+			"balanceMeter": "SOLDE",
+			"winMeter": "GAIN",
+			"betMeter": "CO\u00dbT DU BILLET",
+			"betValue": "<%= value %>",
+			"buyTicket": "ACHETER",
+			"exit": "QUITTER",
+			"playAll": "TOUT D\u00c9VOILER",
+			"playOne": "JOUER UN",
+			"playMoney": "MODE ARGENT R\u00c9EL",
+			"stop": "ARR\u00caTER",
+			"help": {
+				"main": {
+					"title": "COMMENT JOUER",
+					"body": "Choisissez des pierres pr\u00e9cieuses pour d\u00e9voiler des lettres et/ou la cl\u00e9 d'une caverne.\n\nFaites correspondre ces lettres \u00e0 celles du mot crois\u00e9.\n\nTrouvez toutes les lettres de 8 mots ou plus pour gagner!\n\nTrouvez une cl\u00e9 pour d\u00e9verrouiller une autre caverne dans un prochain jeu!"
+				},
+				"settings": {
+					"title": "R\u00c9GLAGES",
+					"body": "Choisissez la m\u00e9thode de marquage des lettres.",
+					"labels": {
+						"auto": "MARQUAGE AUTO",
+						"hint": "INDICE",
+						"manual": "MARQUAGE MANUEL"
+					}
+				}
+			},
+			"timeout": {
+				"continue": "CONTINUER",
+				"exit": "QUITTER",
+				"message": "Vous jouez depuis un bon moment.\n\nVoulez-vous prendre une pause?"
+			}
+		},
+		"keys": "CL\u00c9S DES CAVERNES",
+		"words": "NOMBRE DE MOTS",
+		"unlock": "CL\u00c9 DE CAVERNE TROUV\u00c9E!",
+		"select": "Choisissez une caverne",
+		"ticket": "Cliquez sur le point d\u2019interrogation (?)\npour afficher les instructions du jeu.",
+		"win": "F\u00e9licitations!\nVous avez gagn\u00e9",
+		"lose": "\nMEILLEURE CHANCE\nLA PROCHAINE FOIS"
+	},
+	"try": {
+		"demo": "ESSAYER",
+		"ui": {
+			"balanceMeter": "SOLDE",
+			"winMeter": "GAINS ARGENT FICTIF",
+			"betMeter": "CO\u00dbT DU BILLET",
+			"betValue": "ESSAYER <%= value %>",
+			"buyTicket": "ESSAYER",
+			"exit": "QUITTER",
+			"playAll": "TOUT D\u00c9VOILER",
+			"playOne": "JOUER UN",
+			"playMoney": "MODE ARGENT R\u00c9EL",
+			"stop": "ARR\u00caTER",
+			"help": {
+				"main": {
+					"title": "COMMENT JOUER",
+					"body": "Choisissez des pierres pr\u00e9cieuses pour d\u00e9voiler des lettres et/ou la cl\u00e9 d'une caverne.\n\nFaites correspondre ces lettres \u00e0 celles du mot crois\u00e9.\n\nTrouvez toutes les lettres de 8 mots ou plus pour gagner!\n\nTrouvez une cl\u00e9 pour d\u00e9verrouiller une autre caverne dans un prochain jeu!"
+				},
+				"settings": {
+					"title": "R\u00c9GLAGES",
+					"body": "Choisissez la m\u00e9thode de marquage des lettres.",
+					"labels": {
+						"auto": "MARQUAGE AUTO",
+						"hint": "INDICE",
+						"manual": "MARQUAGE MANUEL"
+					}
+				}
+			},
+			"timeout": {
+				"continue": "CONTINUER",
+				"exit": "QUITTER",
+				"message": "Vous jouez depuis un bon moment.\n\nVoulez-vous prendre une pause?"
+			}
+		},
+		"keys": "CL\u00c9S DES CAVERNES",
+		"words": "COMPTE DE MOTS",
+		"unlock": "CL\u00c9 DE CAVERNE TROUV\u00c9E!",
+		"select": "Choisissez une caverne.",
+		"ticket": "Cliquez sur le point d\u2019interrogation (?)\npour afficher les instructions du jeu.",
+		"win": "Merci d\u2019avoir jou\u00e9!\nVous auriez pu gagner",
+		"lose": "\nMEILLEURE CHANCE\nLA PROCHAINE FOIS"
+	},
+	"error": "<%= code %>\n\n<%= generic %>\n\n<%= specific %>"
+}

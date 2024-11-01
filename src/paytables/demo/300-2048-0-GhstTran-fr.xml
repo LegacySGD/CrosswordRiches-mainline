@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="fr">
+<phrase key="softwareId" value="ID logiciel"/>
+<phrase key="transactionId" value="ID transaction"/>
+<phrase key="totalWins" value="Total des gains"/>
+<phrase key="totalWager" value="Total des sommes jouées"/>
+<phrase key="wordToMatch" value="MotsÀCompléter"/>
+<phrase key="bonusWord" value="Mot bonus"/>
+<phrase key="drawnLetters" value="Lettres tirées"/>
+<phrase key="youMatched" value="Vous avez composé"/>
+</translation>

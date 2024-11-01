@@ -1,0 +1,86 @@
+{
+    "buy": {
+        "ui": {
+            "balanceMeter": "BALANCE0",
+            "winMeter": "WIN0",
+            "betMeter": "TICKET COST0",
+            "betValue": "<%= value %>",
+            "buyTicket": "BUY0",
+            "exit": "EXIT0",
+            "playAll": "REVEAL ALL0",
+            "playOne": "PLAY ONE0",
+            "playMoney": "MOVE TO MONEY0",
+            "stop": "STOP0",
+            "help": {
+                "main": {
+                    "title": "HOW TO PLAY0",
+                    "body": "Select the gems to reveal letters.\n\nMatch letters to complete words.\n\nGet 8 or more words to win.\n\nRevealed keys unlock new caverns for future games.0"
+                },
+                "settings": {
+                    "title": "SETTINGS0",
+                    "body": "Use buttons below for letter marking settings.0",
+                    "labels": {
+                        "auto": "Auto Mark0",
+                        "hint": "Manual (hint)0",
+                        "manual": "Manual Mark0"
+                    }
+                }
+            },
+            "timeout": {
+                "continue": "CONTINUE0",
+                "exit": "EXIT0",
+                "message": "YOU HAVE BEEN PLAYING FOR A LONG TIME.\n\nWOULD YOU LIKE TO CONTINUE?0"
+            }
+        },
+        "keys": "CAVERN KEYS0",
+        "words": "WORD COUNT0",
+        "unlock": "CAVERN UNLOCKED0",
+        "select": "SELECT A CAVERN TO BEGIN0",
+        "ticket": "SELECT YOUR TICKET COST0",
+        "win": "CONGRATULATIONS!\nYOU HAVE WON0",
+        "lose": "YOU DIDN'T WIN\nBETTER LUCK NEXT TIME0"
+    },
+    "try": {
+        "demo": "DEMO0",
+        "ui": {
+            "balanceMeter": "BALANCE0",
+            "winMeter": "DEMO WIN0",
+            "betMeter": "TICKET COST0",
+            "betValue": "TRY <%= value %>",
+            "buyTicket": "TRY0",
+            "exit": "EXIT0",
+            "playAll": "REVEAL ALL0",
+            "playOne": "PLAY ONE0",
+            "playMoney": "MOVE TO MONEY0",
+            "stop": "STOP0",
+            "help": {
+                "main": {
+                    "title": "HOW TO PLAY0",
+                    "body": "Click on the gems to reveal letters.\n\nMatch letters to complete words.\n\nGet 8 or more words to win.\n\nRevealed keys unlock new caverns for future games.0"
+                },
+                "settings": {
+                    "title": "SETTINGS0",
+                    "body": "Use buttons below for letter marking settings.0",
+                    "labels": {
+                        "auto": "Auto Mark0",
+                        "hint": "Manual (hint)0",
+                        "manual": "Manual Mark0"
+                    }
+                }
+            },
+            "timeout": {
+                "continue": "CONTINUE0",
+                "exit": "EXIT0",
+                "message": "YOU HAVE BEEN PLAYING FOR A LONG TIME.\n\nWOULD YOU LIKE TO CONTINUE?0"
+            }
+        },
+        "keys": "CAVERN KEYS0",
+        "words": "WORD COUNT0",
+        "unlock": "CAVERN UNLOCKED0",
+        "select": "SELECT A CAVERN TO BEGIN0",
+        "ticket": "SELECT YOUR DEMO TICKET COST0",
+        "win": "THANKS FOR PLAYING!\nYOU COULD HAVE WON0",
+        "lose": "YOU DIDN'T WIN\nBETTER LUCK NEXT TIME0"
+    },
+    "error": "<%= code %>\n\n<%= generic %>\n\n<%= specific %>0"
+}

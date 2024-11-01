@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="no">
+<phrase key="softwareId" value="Programvare-ID"/>
+<phrase key="transactionId" value="Transaksjons-ID"/>
+<phrase key="totalWins" value="Totale gevinster"/>
+<phrase key="totalWager" value="Totale innsatser"/>
+<phrase key="wordToMatch" value="Ord for matching"/>
+<phrase key="bonusWord" value="Bonusord"/>
+<phrase key="drawnLetters" value="Uttrekte bokstaver"/>
+<phrase key="youMatched" value="Du matchet"/>
+</translation>

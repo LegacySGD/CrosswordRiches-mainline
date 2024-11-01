@@ -1,0 +1,11 @@
+{
+    "unlocks": {
+        "ruby": 0,
+        "emerald": 8,
+        "sapphire": 20,
+        "amethyst": 60,
+        "gold": 150,
+        "crystal": 300
+    },
+    "defaultMode": "auto"
+}

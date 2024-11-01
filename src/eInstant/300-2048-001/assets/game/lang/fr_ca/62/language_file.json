@@ -1,0 +1,87 @@
+{
+	"version": "2-16-2017-1:01PM-SM-fr_ca_62",
+	"buy": {
+		"ui": {
+			"balanceMeter": "",
+			"winMeter": "GAINS",
+			"betMeter": "MISE",
+			"betValue": "<%= value %>",
+			"buyTicket": "JOUER",
+			"exit": "QUITTER",
+			"playAll": "TOUT D\u00c9VOILER",
+			"playOne": "",
+			"playMoney": "",
+			"stop": "ARRÊTER",
+			"help": {
+				"main": {
+					"title": "COMMENT JOUER",
+					"body": "Sélectionnez les diamants pour dévoiler des lettres. \n\nCombinez les lettres pour former des mots. Formez 8 mots ou plus pour gagner le lot correspondant. \n\n Les clés dévoilées déverrouillent de nouvelles cavernes pour les prochains jeux."
+				},
+				"settings": {
+					"title": "PARAMÈTRES",
+					"body": "Utilisez les boutons ci-dessous pour modifier les paramètres de marquage des lettres.",
+					"labels": {
+						"auto": "Marquage automatique",
+						"hint": "(Indice) manuel",
+						"manual": "Marquage manuel"
+					}
+				}
+			},
+			"timeout": {
+				"continue": "CONTINUER",
+				"exit": "QUITTER",
+				"message": "VOUS JOUEZ DEPUIS UN CERTAIN TEMPS. \n\nSOUHAITEZ-VOUS CONTINUER?"
+			}
+		},
+		"keys": "CLÉS DES CAVERNES",
+		"words": "NOMBRE DE MOTS",
+		"unlock": "CAVERNE DÉVERROUILLÉE",
+		"select": "SÉLECTIONNEZ UNE CAVERNE POUR COMMENCER",
+		"ticket": "SÉLECTIONNEZ LE MONTANT DE VOTRE MISE",
+		"win": "FÉLICITATIONS!\nVOUS AVEZ GAGNÉ",
+		"lose": "MEILLEURE CHANCE LA PROCHAINE FOIS"
+	},
+	"try": {
+		"demo": "",
+		"ui": {
+			"balanceMeter": "",
+			"winMeter": "",
+			"betMeter": "",
+			"betValue": "",
+			"buyTicket": "",
+			"exit": "",
+			"playAll": "",
+			"playOne": "",
+			"playMoney": "",
+			"stop": "",
+			"help": {
+				"main": {
+					"title": "",
+					"body": ""
+				},
+				"settings": {
+					"title": "",
+					"body": "",
+					"labels": {
+						"auto": "",
+						"hint": "",
+						"manual": ""
+					}
+				}
+			},
+			"timeout": {
+				"continue": "",
+				"exit": "",
+				"message": ""
+			}
+		},
+		"keys": "",
+		"words": "",
+		"unlock": "",
+		"select": "",
+		"ticket": "",
+		"win": "",
+		"lose": ""
+	},
+	"error": "<%= code %>\n\n<%= generic %>\n\n<%= specific %>"
+}

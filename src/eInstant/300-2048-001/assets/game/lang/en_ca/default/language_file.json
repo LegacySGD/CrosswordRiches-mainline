@@ -1,0 +1,85 @@
+{
+	"buy": {
+		"ui": {
+			"balanceMeter": "",
+			"winMeter": "WINS",
+			"betMeter": "WAGER AMOUNT",
+			"betValue": "<%= value %>",
+			"buyTicket": "PLAY",
+			"exit": "EXIT",
+			"playAll": "AUTO PLAY",
+			"playOne": "",
+			"playMoney": "",
+			"stop": "STOP",
+			"help": {
+				"main": {
+					"title": "HOW TO PLAY",
+					"body": "Select the gems to reveal letters.\n\nMatch letters to complete words.\n\nComplete 8 or more words to win corresponding prize.\n\nRevealed keys unlock new caverns for future games."
+				},
+				"settings": {
+					"title": "SETTINGS",
+					"body": "Use buttons below for letter marking settings.",
+					"labels": {
+						"auto": "Auto Mark",
+						"hint": "Manual (Hint)",
+						"manual": "Manual Mark"
+					}
+				}
+			},
+			"timeout": {
+				"continue": "CONTINUE",
+				"exit": "EXIT",
+				"message": "YOU HAVE BEEN PLAYING FOR A WHILE.\n\nWOULD YOU LIKE TO CONTINUE?"
+			}
+		},
+		"keys": "CAVERN KEYS",
+		"words": "WORD COUNT",
+		"unlock": "CAVERN UNLOCKED",
+		"select": "SELECT A CAVERN TO BEGIN",
+		"ticket": "SELECT YOUR WAGER AMOUNT",
+		"win": "CONGRATULATIONS!\nYOU WON",
+		"lose": "BETTER LUCK NEXT TIME"
+	},
+	"try": {
+		"demo": "",
+		"ui": {
+			"balanceMeter": "",
+			"winMeter": "",
+			"betMeter": "",
+			"betValue": "",
+			"buyTicket": "",
+			"exit": "",
+			"playAll": "",
+			"playOne": "",
+			"playMoney": "",
+			"stop": "",
+			"help": {
+				"main": {
+					"title": "",
+					"body": ""
+				},
+				"settings": {
+					"title": "",
+					"body": "",
+					"labels": {
+						"auto": "",
+						"hint": "",
+						"manual": ""
+					}
+				}
+			},
+			"timeout": {
+				"continue": "",
+				"exit": "",
+				"message": ""
+			}
+		},
+		"keys": "",
+		"unlock": "",
+		"select": "",
+		"ticket": "",
+		"win": "",
+		"lose": ""
+	},
+	"error": "<%= code %>\n\n<%= generic %>\n\n<%= specific %>"
+}

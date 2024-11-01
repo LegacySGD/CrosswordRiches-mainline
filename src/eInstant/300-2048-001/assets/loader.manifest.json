@@ -1,0 +1,18 @@
+{
+    "sounds": [],
+    "sprites": [],
+    "spritesheets": [],
+    "sprites2": [],
+    "images": [
+        "assets/loader/images/default/default/background.jpg",
+        "assets/loader/images/default/default/loaderBar.png",
+        "assets/loader/images/default/default/loaderImage.png",
+        "assets/loader/images/fr_ca/default/background.jpg",
+        "assets/loader/images/fr_ca/default/loaderBar.png",
+        "assets/loader/images/fr_ca/default/loaderImage.png"
+    ],
+    "js": [],
+    "config": [],
+    "lang": [],
+    "fonts": []
+}

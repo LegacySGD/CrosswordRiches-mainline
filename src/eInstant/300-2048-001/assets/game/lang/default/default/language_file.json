@@ -1,0 +1,87 @@
+{
+	"version":"11.23.16-15:20-GH,SM-def def",
+	"buy": {
+		"ui": {
+			"balanceMeter": "BALANCE",
+			"winMeter": "WIN",
+			"betMeter": "TICKET COST",
+			"betValue": "<%= value %>",
+			"buyTicket": "BUY",
+			"exit": "EXIT",
+			"playAll": "REVEAL ALL",
+			"playOne": "PLAY ONE",
+			"playMoney": "MOVE TO MONEY",
+			"stop": "STOP",
+			"help": {
+				"main": {
+					"title": "HOW TO PLAY",
+					"body": "Select the gems to reveal letters and/or a cavern key.\n\nMatch those letters to the crossword letters.\n\nMatch all letters in 8 or more crosswords, and it’s a win!\n\nFind a key, and unlock a new cavern in a future game!"
+				},
+				"settings": {
+					"title": "SETTINGS",
+					"body": "Choose your letter marking settings.",
+					"labels": {
+						"auto": "AUTO MARK",
+						"hint": "HINT",
+						"manual": "MANUAL MARK"
+					}
+				}
+			},
+			"timeout": {
+				"continue": "CONTINUE",
+				"exit": "EXIT",
+				"message": "You have been playing for quite a while now.\n\nWould you like to take a break?"
+			}
+		},
+		"keys": "CAVERN KEYS",
+		"words": "WORD COUNT",
+		"unlock": "CAVERN KEY FOUND!",
+		"select": "Select a cavern.",
+		"ticket": "Select the question mark (?)\nto view this game’s instructions.",
+		"win": "Congratulations!\nYou have won",
+		"lose": "\nBETTER LUCK\nNEXT TIME"
+	},
+	"try": {
+		"demo": "TRY",
+		"ui": {
+			"balanceMeter": "BALANCE",
+			"winMeter": "DEMO WIN",
+			"betMeter": "TICKET COST",
+			"betValue": "TRY <%= value %>",
+			"buyTicket": "TRY",
+			"exit": "EXIT",
+			"playAll": "REVEAL ALL",
+			"playOne": "PLAY ONE",
+			"playMoney": "MOVE TO MONEY",
+			"stop": "STOP",
+			"help": {
+				"main": {
+					"title": "HOW TO PLAY",
+					"body": "Select the gems to reveal letters and/or a cavern key.\n\nMatch those letters to the crossword letters.\n\nMatch all letters in 8 or more crosswords, and it’s a win!\n\nFind a key, and unlock a new cavern in a future game!"
+				},
+				"settings": {
+					"title": "SETTINGS",
+					"body": "Choose your letter marking settings.",
+					"labels": {
+						"auto": "AUTO MARK",
+						"hint": "HINT",
+						"manual": "MANUAL MARK"
+					}
+				}
+			},
+			"timeout": {
+				"continue": "CONTINUE",
+				"exit": "EXIT",
+				"message": "You have been playing for quite a while now.\n\nWould you like to take a break?"
+			}
+		},
+		"keys": "CAVERN KEYS",
+		"words": "WORD COUNT",
+		"unlock": "CAVERN KEY FOUND!",
+		"select": "Select a cavern.",
+		"ticket": "Select the question mark (?)\nto view this game’s instructions.",
+		"win": "Thanks for playing!\nYou could have won",
+		"lose": "\nBETTER LUCK\nNEXT TIME"
+	},
+	"error": "<%= code %>\n\n<%= generic %>\n\n<%= specific %>"
+}
